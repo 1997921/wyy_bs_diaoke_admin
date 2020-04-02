@@ -34,7 +34,7 @@
     "react": "16.2.0",
     "react-dom": "16.2.0",
     "react-router-dom": "^5.1.2",
-    "simditor": "2.3.6",
+    "simditor": "2.3.22",
     "sudo": "^1.0.3",
     "yum": "^0.1.1"
   }
